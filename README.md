@@ -15,7 +15,7 @@ Here are some of the technologies I work with:
 
 ## 📈 GitHub Activity
 
-![My GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=itzBqa&bg_color=ffffff&color=0080ff&line=0080ff&point=0080ff&area=true&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=itzBqa&bg_color=ffffff&color=0080ff&line=0080ff&point=0080ff&area=true&hide_border=true)
 
 ## 🌱 Currently Learning
 - Nextjs/Nestjs
