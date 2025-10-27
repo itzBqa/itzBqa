@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 Here are some of the technologies I work with:
 
-- 🧑‍💻 **Languages**: Python, JavaScript, TypeScript
+- 🧑‍💻 **Languages**: Python, JavaScript, TypeScript, Go
 - 🌐 **Web Development**: Nextjs, Node.js, Express, Nestjs
 
 ## 💻 GitHub Stats
@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 
 ## 🌱 Currently Learning
 - Nextjs/Nestjs
-- AI and Machine Learning with TensorFlow
+- Go
 
-## 🎯 What I’m Working On
-- 📚 Skillbarter.pl
+## Visit my website to contact me
+![My website](https://lukasz.live/)
