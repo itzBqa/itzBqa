@@ -22,4 +22,4 @@ Here are some of the technologies I work with:
 - Go
 
 ## Visit my website to contact me
-![My website](https://lukasz.live/)
+[My website](https://lukasz.live/)
