@@ -1,4 +1,5 @@
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0080FF&center=true&vcenter=true&width=600&height=70&lines=Hey%2C+I'm+Bqa!+%F0%9F%90%A7;Fullstack+Developer;" alt="Typing SVG" />
 
   <p align="center">
@@ -18,23 +19,23 @@
 
 ---
 
-### :zap: About Me
+### ⚡ About Me
 
-- :rocket: Passionate about **TypeScript**, reactive interfaces, and scalable backend architecture.
-- :dart: Focused on performance optimization, clean code, and database efficiency.
-- :brain: Currently expanding my knowledge in **Go** and microservices.
-
----
-
-### :rocket: Current Projects
-
-| Project | Tech Stack | Description | 
-| :--- | :--- | :--- | :---: |
-| **[Runnee](#)** | `Next.js` `TypeScript` `Supabase` `Nestjs` | Embedded scripting language. 
+- 🚀 Passionate about **TypeScript**, reactive interfaces, and scalable backend architecture.
+- 🎯 Focused on performance optimization, clean code, and database efficiency.
+- 🧠 Currently expanding my knowledge in **Go** and microservices.
 
 ---
 
-### :tools: Tech Stack & Tools
+### 🚀 Current Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Runnee](https://runnee.cloud)** | `Next.js` `TypeScript` `Supabase` `NestJS` | Embedded scripting language. |
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -46,7 +47,7 @@
 
   <br />
 
-  <!-- Frameworks & Runtimes -->
+
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -55,7 +56,7 @@
 
   <br />
 
-  <!-- Databases & Cloud -->
+
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -66,11 +67,11 @@
 
 ---
 
-### :bar_chart: GitHub Dashboard
+### 📊 GitHub Dashboard
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzBqa&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="Bqa's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzBqa&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Bqa's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzBqa&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
