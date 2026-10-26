@@ -80,12 +80,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzBqa&bg_color=2e3440&color=88c0d0&line=88c0d0&point=e5e9f0&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/itzBqa/itzBqa/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed for clarity and high contrast. Check out my website: <a href="https://lukasz.live/">lukasz.live</a></sub>
+  <sub>
+    Check out my website: <a href="https://lukasz.live/">lukasz.live</a></sub>
 </div>
