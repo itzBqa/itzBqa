@@ -80,7 +80,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/itzBqa/itzBqa/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzBqa&theme=nord&hide_border=true" width="100%" alt="GitHub Streak" />
 
 </div>
 
